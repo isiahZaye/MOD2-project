@@ -1,3 +1,13 @@
+This app was created to give the user a census of the types of crimes professional sports players commit.
+
+the purpose of this app is to show that no matter how fame or money you attain you and still lose it all or alot by commiting crimes .
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
