@@ -40,7 +40,7 @@ class NBA extends Component {
         <h1>NBA players</h1>
         </div>
           <ul className="list">
-          {topCrimes.map((crime,i) => (
+          {players.map((crime,i) => (
           <li key={players}>
 
             <br />

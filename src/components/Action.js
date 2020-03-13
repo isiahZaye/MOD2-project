@@ -11,13 +11,13 @@ function fetchProductsPending() {
 function fetchProductsSuccess(products) {
     return {
         type: FETCH_CRIME_SUCCESS
-        products: products
+        // products: products
     }
 }
 
 function fetchProductsError(error) {
     return {
         type: FETCH_CRIME_ERROR
-        error: error
+        // error: error
     }
 }

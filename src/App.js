@@ -5,8 +5,7 @@ import NBA from './components/NBA'
 
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
 
-class  App extends React.Component{
-  render(){
+function  App(){
   return(
     <Router>
      <div className='routes'>
@@ -29,15 +28,15 @@ class  App extends React.Component{
        </nav>
      <Switch>
      <Route exact path="/Home" component={Home}/>
-     <Route path="/MLB" component={MLB}/>
+     <Route path="/MLB" />
      <Route path="/NBA" component={NBA}/>
-     <Route path="/NFL" component={NFL}/>
+     <Route path="/NFL" />
      </Switch>
        </div>
    </Router>
    );
 
-}
+
 }
 
 
