@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "build",
+    "site": "mod2-project-fire",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
