@@ -1,7 +1,6 @@
 import React from 'react'
 import './App.css'
 import Home from './components/Home'
-import MLB from './components/MLB'
 import NBA from './components/NBA'
 import NFL from './components/NFL'
 
