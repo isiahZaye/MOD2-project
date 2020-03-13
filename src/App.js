@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css'
 import Home from './components/Home'
 import NBA from './components/NBA'
-import NFL from './components/NFL'
 
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
 
